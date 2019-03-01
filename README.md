@@ -2,10 +2,16 @@
 
 Stopwatch application build in Flutter using bloc_pattern.
 
+The buttons dynamically change according to the click event.
+
+Also there is animation when resetting the stopwatch.
+
 The basic codes of stopwatch referred to https://github.com/bizz84/stopwatch-flutter.
 
 
-<img src="./assets/stopwatch_flutter.gif"/>
+<img src="./assets/stopwatch_flutter.gif" height=700px /><br>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

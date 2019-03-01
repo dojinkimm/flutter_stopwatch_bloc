@@ -1,6 +1,8 @@
 # flutter_stopwatch_bloc
 
-A new Flutter project.
+Stopwatch application build in Flutter using bloc_pattern.
+
+The basic codes of stopwatch referred to https://github.com/bizz84/stopwatch-flutter.
 
 ## Getting Started
 
